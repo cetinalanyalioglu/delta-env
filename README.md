@@ -27,3 +27,5 @@ By default, modifications are reported with respect to the **default user enviro
 
 If no shell executable is supplied via ```--shell <path-to-shell>``` argument, it is obtained from the value of environment variable ```SHELL```.
 
+This information is also available via invoking ```delta-env --help```.
+
